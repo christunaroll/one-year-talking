@@ -42,12 +42,12 @@ export default function App() {
 
             <p>
               Starting a relationship long-distance isn't always easy, so I really appreciate your time, your patience, and the effort you put into us. 
-              The distance can be hard sometimes *eye twitches* yet I genuinely look forward to hearing from you, talking to you, and sharing all the little things that happen throughout our days.
+              The distance can be hard sometimes *eye twitches* but hearing from you and sharing all the little things that happen throughout our days make it better.
             </p>
 
             <p>
-              Thank you for all the memories we've made so far, and for being someone I look forward to talking to every day. 
-              I'm excited for all the memories we still have ahead of us.
+              Thank you for all the memories we've made so far. 
+              Here's to more ahead of us!
             </p>
 
             <p>
