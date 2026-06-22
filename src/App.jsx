@@ -17,7 +17,7 @@ export default function App() {
             className="envelope"
             onClick={() => setStep("letter")}
           />
-          
+
           <p>Click to open!</p>
         </div>
       )}
@@ -87,10 +87,6 @@ export default function App() {
           />
 
           <h1>Sweet Drink Successfully Redeemed!</h1>
-
-          <p className="stagger">          
-            (specifically from Stagger :D)
-          </p>
 
           <p className="cheers">
             Cheers to one year of not leaving each other alone.
