@@ -39,12 +39,7 @@ export default function App() {
             <p>
              I wanted to celebrate the fact that one of us decided to hit that match button heh.
             </p>
-
-            <p>
-              Starting a relationship long-distance isn't always easy, so I really appreciate your time, your patience, and the effort you put into us. 
-              The distance can be hard sometimes *eye twitches* but hearing from you and sharing all the little things that happen throughout our days make it better.
-            </p>
-
+            
             <p>
               Thank you for all the memories we've made so far. 
               Here's to more ahead of us!
