@@ -17,8 +17,7 @@ export default function App() {
             className="envelope"
             onClick={() => setStep("letter")}
           />
-
-          <h2>One year ago, we matched on Hinge.</h2>
+          
           <p>Click to open!</p>
         </div>
       )}
