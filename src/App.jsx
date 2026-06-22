@@ -37,8 +37,7 @@ export default function App() {
             </p>
 
             <p>
-              We've only officially been dating for about half of that (happy 6 months)!
-              But I did want to celebrate the fact that one of us decided to hit that match button heh.
+             I wanted to celebrate the fact that one of us decided to hit that match button heh.
             </p>
 
             <p>
