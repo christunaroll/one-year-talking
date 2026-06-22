@@ -52,7 +52,7 @@ export default function App() {
             </p>
 
             <p>
-              Since I originally asked to get matcha with you as our first meet up if *someone* was in LA, feel free to redeem your matcha card.
+              Since I originally asked to get matcha with you as our first meet up if *someone* was in LA, feel free to redeem your sweet drink card.
             </p>
 
             <p>— Christina 🐶 🧁 </p>
