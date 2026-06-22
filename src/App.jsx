@@ -62,7 +62,7 @@ export default function App() {
               className="redeem-btn"
               onClick={() => setStep("bread")}
             >
-             🍵 Matcha Card 🍵
+             🍵 Sweet Drink Card 🍵
             </button>
           </div>
 
